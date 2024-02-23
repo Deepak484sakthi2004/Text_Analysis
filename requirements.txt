@@ -2,7 +2,6 @@ google-generativeai
 langchain_google_genai
 langchain
 spacy
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz
 streamlit
 nltk
 gensim
