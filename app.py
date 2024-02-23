@@ -6,7 +6,7 @@ import os
 import re 
 import json
 import spacy
-!python -m spacy download en_core_web_sm   
+
 from spacy import displacy  
 from dotenv import load_dotenv
 
