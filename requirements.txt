@@ -1,7 +1,7 @@
 google-generativeai
 langchain_google_genai
 langchain
-spacy
+spacy==3.1.3
 streamlit
 nltk
 gensim
