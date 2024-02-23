@@ -72,7 +72,10 @@ st.set_page_config(layout="wide")
 st.title("Ai powered Text Analysis App :page_with_curl:")
 
 with st.expander("About this application"):
-    st.markdown("This app is built using the [Google Gemini](https://ai.google.dev/), Streamlit, and Spacy.")
+    st.markdown('''This app is built using the [Google Gemini](https://ai.google.dev/), Streamlit, and Spacy.
+    Created by [deepaksakthi V K](https://deepaksakthi-v-k.web.app)
+    ''')
+
 
 input_text = st.text_area("Enter your text to analyze")
 
