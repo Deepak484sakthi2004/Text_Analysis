@@ -6,9 +6,8 @@ import os
 import re 
 import json
 import spacy
-
-
-from spacy import displacy
+!python -m spacy download en_core_web_sm   
+from spacy import displacy  
 from dotenv import load_dotenv
 
 # load the GOOGLE / OPENAI- API KEY FROM .env 
