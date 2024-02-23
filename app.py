@@ -6,7 +6,7 @@ import os
 import re 
 import json
 import spacy
-
+import subprocess
 # Download spaCy models
 subprocess.run(['python', '-m', 'spacy', 'download', 'en_core_web_sm'])
 subprocess.run(['python', '-m', 'spacy', 'download', 'en_core_web_lg'])
