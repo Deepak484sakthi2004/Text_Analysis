@@ -6,6 +6,12 @@ import os
 import re 
 import json
 import spacy
+
+# Download spaCy models
+subprocess.run(['python', '-m', 'spacy', 'download', 'en_core_web_sm'])
+subprocess.run(['python', '-m', 'spacy', 'download', 'en_core_web_lg'])
+
+
 from spacy import displacy
 from dotenv import load_dotenv
 
