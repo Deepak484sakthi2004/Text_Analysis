@@ -57,7 +57,7 @@ The `generate_wordcloud` function creates a visually appealing word cloud based 
 Spacy is used for Named Entity Recognition (NER), identifying entities such as persons, organizations, and locations in the text.
 
 ## Deployment
-The Text Analysis App is deployed on a free Heroku server. You can access the live app [https://text-analysis-poa5.onrender.com/](#).
+The Text Analysis App is deployed on a free Heroku server. You can access the live app [here](https://text-analysis-poa5.onrender.com/).
 
 ## Usage
 1. Enter the text you want to analyze in the provided input box.
