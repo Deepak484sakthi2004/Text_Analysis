@@ -1,7 +1,7 @@
 # Text Analysis App
 
 Welcome to the Text Analysis App! This application allows you to perform various text analysis tasks using Google Gemini API for context generation, keyword extraction, and word prompting. It also includes functionality for extracting key points, identifying most positive words, and generating word clouds. The app is deployed on a free Heroku server.
-
+![text_Analysis__App_demo](text_Analysis_demo.png)
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Features](#features)
